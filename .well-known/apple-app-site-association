@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "4T2W2RCFT2.org.reactjs.native.example.orchardgo"
+                ],
+                "components": [
+                    {
+                        "/": "/song/*",
+                        "comment": "Matches any URL whose path starts with /song/"
+                    }
+                ]
+            }
+        ]
+    }
+}
